@@ -1,0 +1,1 @@
+This video editing software leverages artificial intelligence to automate tasks such as video stabilization, color correction, and object tracking, streamlining the video editing process for content creators.
